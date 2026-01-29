@@ -6,4 +6,6 @@ Deployment:
 - Publishes to GitHub Pages from the `main` branch.
 - Custom domain: `www.lastingfirstsolutions.com`
 
-See `.github/workflows/pages.yml` for the deployment workflow.
+This commit triggers the Pages deployment workflow.
+
+Deployed trigger: 2026-01-29T19:42:30Z
